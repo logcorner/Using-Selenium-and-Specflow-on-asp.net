@@ -31,7 +31,7 @@ namespace LogCorner.BlogPost.Web.Mvc.UITest.Setup
         public void TestInitialize()
         {
             // TODO : uncomment to start IISExpress
-            StartIIS();
+           // StartIIS();
         }
 
         public void TestCleanup()
@@ -39,7 +39,7 @@ namespace LogCorner.BlogPost.Web.Mvc.UITest.Setup
             if (_iisProcess.HasExited == false)
             {
                 // TODO : uncomment to stop IISExpress
-                _iisProcess.Kill();
+              //  _iisProcess.Kill();
             }
         }
 
