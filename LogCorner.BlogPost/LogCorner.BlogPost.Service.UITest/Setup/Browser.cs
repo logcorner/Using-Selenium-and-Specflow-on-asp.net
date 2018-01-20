@@ -2,7 +2,7 @@
 using System;
 using System.Configuration;
 
-namespace LogCorner.BlogPost.Service.UITest.Setup
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Setup
 {
     public class Browser
     {

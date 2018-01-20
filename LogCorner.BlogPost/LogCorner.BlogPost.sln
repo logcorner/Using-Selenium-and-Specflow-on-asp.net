@@ -15,11 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogCorner.BlogPost.Service.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogCorner.BlogPost.Service.AcceptanceTest", "LogCorner.BlogPost.Service.AcceptanceTest\LogCorner.BlogPost.Service.AcceptanceTest.csproj", "{45B570DA-0966-48B4-8D3D-64B9B491C8A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogCorner.BlogPost.Service.UITest", "LogCorner.BlogPost.Service.UITest\LogCorner.BlogPost.Service.UITest.csproj", "{73104C1B-7879-4468-B5F7-ED3B56826E61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogCorner.BlogPost.Web.Mvc.UITest", "LogCorner.BlogPost.Service.UITest\LogCorner.BlogPost.Web.Mvc.UITest.csproj", "{73104C1B-7879-4468-B5F7-ED3B56826E61}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogCorner.BlogPost.Data", "LogCorner.BlogPost.Data\LogCorner.BlogPost.Data.csproj", "{FC3ED2D0-8BB2-44A7-BB87-CB5B623E1841}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{5CB39F20-F2E1-454B-9FEA-410DAB8D46CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,10 +53,6 @@ Global
 		{FC3ED2D0-8BB2-44A7-BB87-CB5B623E1841}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC3ED2D0-8BB2-44A7-BB87-CB5B623E1841}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC3ED2D0-8BB2-44A7-BB87-CB5B623E1841}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5CB39F20-F2E1-454B-9FEA-410DAB8D46CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CB39F20-F2E1-454B-9FEA-410DAB8D46CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CB39F20-F2E1-454B-9FEA-410DAB8D46CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CB39F20-F2E1-454B-9FEA-410DAB8D46CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

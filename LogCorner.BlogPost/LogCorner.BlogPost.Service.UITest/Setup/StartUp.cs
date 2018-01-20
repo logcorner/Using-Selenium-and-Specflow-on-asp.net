@@ -2,7 +2,7 @@
 using System.Configuration;
 using TechTalk.SpecFlow;
 
-namespace LogCorner.BlogPost.Service.UITest.Setup
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Setup
 {
     [Binding]
     public class StartUp

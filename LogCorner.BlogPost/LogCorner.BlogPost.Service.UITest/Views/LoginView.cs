@@ -1,7 +1,7 @@
-﻿using LogCorner.BlogPost.Service.UITest.Components;
-using LogCorner.BlogPost.Service.UITest.Setup;
+﻿using LogCorner.BlogPost.Web.Mvc.UITest.Components;
+using LogCorner.BlogPost.Web.Mvc.UITest.Setup;
 
-namespace LogCorner.BlogPost.Service.UITest.Page
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Page
 {
     public class LoginView : Browser
     {

@@ -1,7 +1,7 @@
 ﻿using System;
-using LogCorner.BlogPost.Service.UITest.Setup;
+using LogCorner.BlogPost.Web.Mvc.UITest.Setup;
 
-namespace LogCorner.BlogPost.Service.UITest.Page
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Page
 {
     public class BlogCreateView : Browser
     {

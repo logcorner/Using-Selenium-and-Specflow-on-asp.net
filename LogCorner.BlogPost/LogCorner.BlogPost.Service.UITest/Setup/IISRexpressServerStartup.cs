@@ -3,7 +3,7 @@ using System.Configuration;
 using System.Diagnostics;
 using System.IO;
 
-namespace LogCorner.BlogPost.Service.UITest.Setup
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Setup
 {
     public abstract class IISRexpressServerStartup
     {

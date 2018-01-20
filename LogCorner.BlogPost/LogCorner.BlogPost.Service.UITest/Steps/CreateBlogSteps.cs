@@ -1,8 +1,8 @@
-﻿using LogCorner.BlogPost.Service.UITest.Page;
+﻿using LogCorner.BlogPost.Web.Mvc.UITest.Page;
 using NUnit.Framework;
 using TechTalk.SpecFlow;
 
-namespace LogCorner.BlogPost.Service.UITest.Steps
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Steps
 {
     [Binding]
     public class CreateBlogSteps

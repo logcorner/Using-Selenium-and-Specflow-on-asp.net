@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Remote;
 
-namespace LogCorner.BlogPost.Service.UITest.Setup
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Setup
 {
     public class SeleniumWebDriverStartup : IISRexpressServerStartup
     {

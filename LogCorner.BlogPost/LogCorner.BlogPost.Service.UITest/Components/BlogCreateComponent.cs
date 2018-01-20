@@ -1,6 +1,6 @@
 ﻿using OpenQA.Selenium;
 
-namespace LogCorner.BlogPost.Service.UITest.Page
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Page
 {
     internal class BlogCreateComponent
     {

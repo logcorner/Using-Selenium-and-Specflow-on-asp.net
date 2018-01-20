@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace LogCorner.BlogPost.Service.UITest.Feature
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Feature
 {
     using TechTalk.SpecFlow;
     
@@ -61,7 +61,7 @@ namespace LogCorner.BlogPost.Service.UITest.Feature
             if (((testRunner.FeatureContext != null) 
                         && (testRunner.FeatureContext.FeatureInfo.Title != "CreateBlog")))
             {
-                global::LogCorner.BlogPost.Service.UITest.Feature.CreateBlogFeature.FeatureSetup(null);
+                global::LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.FeatureSetup(null);
             }
         }
         

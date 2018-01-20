@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
 using System;
 
-namespace LogCorner.BlogPost.Service.UITest.Components
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Components
 {
     public class LoginComponent
     {

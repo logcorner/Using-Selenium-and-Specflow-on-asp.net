@@ -1,7 +1,7 @@
 ﻿using OpenQA.Selenium;
 using System;
 
-namespace LogCorner.BlogPost.Service.UITest.Page
+namespace LogCorner.BlogPost.Web.Mvc.UITest.Page
 {
     public class BlogListComponent
     {
