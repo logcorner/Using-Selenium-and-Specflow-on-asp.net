@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="79125376-db80-4bce-813f-20838914c6e2" name="TOCANE@TOCANE-LATITUDE 2018-01-20 22:14:59" runUser="TOCANE-LATITUDE\TOCANE" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="c9ed1043-2fb0-4766-9fa1-dd34e791ba4d">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="TOCANE_TOCANE-LATITUDE 2018-01-20 22_14_59" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2018-01-20T22:14:59.0216921+01:00" queuing="2018-01-20T22:14:59.5937538+01:00" start="2018-01-20T22:14:59.7287535+01:00" finish="2018-01-20T22:15:00.1047644+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="unittestproject2.dll" id="48b188ce-77c2-aa30-8e8a-61e3cbbeb3a8">
+      <Execution id="766e9ab9-0dc3-4ba8-bc9e-62c1ae51bb86" />
+      <TestMethod codeBase="C:/TEAMPROJECT/GIT/selenim specflow/blog/LogCorner.BlogPost/UnitTestProject2/bin/Debug/UnitTestProject2.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestProject2.UnitTest1, UnitTestProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="48b188ce-77c2-aa30-8e8a-61e3cbbeb3a8" executionId="766e9ab9-0dc3-4ba8-bc9e-62c1ae51bb86" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="766e9ab9-0dc3-4ba8-bc9e-62c1ae51bb86" testId="48b188ce-77c2-aa30-8e8a-61e3cbbeb3a8" testName="TestMethod1" computerName="TOCANE-LATITUDE" duration="00:00:00.0209050" startTime="2018-01-20T22:14:59.7677529+01:00" endTime="2018-01-20T22:15:00.0437540+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="766e9ab9-0dc3-4ba8-bc9e-62c1ae51bb86">
+    </UnitTestResult>
+  </Results>
+</TestRun>

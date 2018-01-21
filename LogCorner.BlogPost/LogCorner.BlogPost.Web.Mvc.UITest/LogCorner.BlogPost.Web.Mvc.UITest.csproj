@@ -77,7 +77,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Components\LoginComponent.cs" />
     <Compile Include="Components\BlogListComponent.cs" />
     <Compile Include="Components\BlogCreateComponent.cs" />
