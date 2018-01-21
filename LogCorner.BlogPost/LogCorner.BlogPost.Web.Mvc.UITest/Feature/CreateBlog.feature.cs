@@ -81,7 +81,7 @@ this.ScenarioSetup(scenarioInfo);
 #line 6
  testRunner.Then("I must be redirected on login page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line 7
- testRunner.When("I logged in leyegora@yopmail.com Gophette1#", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("I logged in selenium@yopmail.com Selenium1#", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 8
  testRunner.Then("I must be redirected on CreateBlogPage", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line 9
@@ -106,7 +106,7 @@ this.ScenarioSetup(scenarioInfo);
 #line 14
  this.ScenarioSetup(scenarioInfo);
 #line 15
- testRunner.Given("I m an authenicated user leyegora@yopmail.com Gophette1#", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given("I m an authenicated user selenium@yopmail.com Selenium1#", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line 16
  testRunner.When("I naviagte to blog list page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line 17
