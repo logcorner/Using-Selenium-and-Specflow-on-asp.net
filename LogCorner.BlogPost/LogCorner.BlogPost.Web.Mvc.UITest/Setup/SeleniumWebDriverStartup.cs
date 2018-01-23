@@ -21,7 +21,7 @@ namespace LogCorner.BlogPost.Web.Mvc.UITest.Setup
         public override void Initialize()
         {
             TestInitialize();
-            _remoteWebDriver = new ChromeDriver();
+            _remoteWebDriver = new ChromeDriver(@"C:\Selenium\drivers");
             _remoteWebDriver.Manage().Window.Maximize();
         }
 
