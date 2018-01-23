@@ -1,0 +1,6 @@
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

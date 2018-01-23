@@ -45,3 +45,12 @@ C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner
 C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.csprojResolveAssemblyReference.cache
 C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.dll
 C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\LogCorner.BlogPost.Data.dll.config
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\LogCorner.BlogPost.Data.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\LogCorner.BlogPost.Data.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.pdb
