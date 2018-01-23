@@ -102,6 +102,6 @@ C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.S
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Debug\TechTalk.SpecFlow.dll
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Debug\Newtonsoft.Json.xml
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Debug\nunit.framework.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\obj\Debug\LogCorner.BlogPost.Service.AcceptanceTest.csprojResolveAssemblyReference.cache
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\obj\Debug\LogCorner.BlogPost.Service.AcceptanceTest.dll
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\obj\Debug\LogCorner.BlogPost.Service.AcceptanceTest.pdb
-C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\obj\Debug\LogCorner.BlogPost.Service.AcceptanceTest.csprojResolveAssemblyReference.cache

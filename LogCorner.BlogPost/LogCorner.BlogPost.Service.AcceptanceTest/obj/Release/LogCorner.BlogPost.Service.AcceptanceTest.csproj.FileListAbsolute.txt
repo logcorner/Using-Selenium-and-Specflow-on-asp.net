@@ -1,0 +1,17 @@
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\NUnit3.TestAdapter.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\nunit.engine.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\nunit.engine.api.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\Mono.Cecil.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\Mono.Cecil.Pdb.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\Mono.Cecil.Mdb.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\Mono.Cecil.Rocks.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\LogCorner.BlogPost.Service.AcceptanceTest.dll.config
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\LogCorner.BlogPost.Service.AcceptanceTest.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\LogCorner.BlogPost.Service.AcceptanceTest.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\Newtonsoft.Json.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\nunit.framework.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\TechTalk.SpecFlow.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\Newtonsoft.Json.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\bin\Release\nunit.framework.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\obj\Release\LogCorner.BlogPost.Service.AcceptanceTest.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.AcceptanceTest\obj\Release\LogCorner.BlogPost.Service.AcceptanceTest.pdb
