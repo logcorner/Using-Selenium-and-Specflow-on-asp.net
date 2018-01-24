@@ -80,6 +80,7 @@
     <Compile Include="Components\LoginComponent.cs" />
     <Compile Include="Components\BlogListComponent.cs" />
     <Compile Include="Components\BlogCreateComponent.cs" />
+    <Compile Include="Extensions\WebElementExtensions.cs" />
     <Compile Include="Feature\CreateBlog.feature.cs">
       <DependentUpon>CreateBlog.feature</DependentUpon>
       <DesignTime>True</DesignTime>
@@ -121,7 +122,7 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Report\index.html" />
+    <Content Include="Report\SpecFlowTests.html" />
     <Content Include="TextFile1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
