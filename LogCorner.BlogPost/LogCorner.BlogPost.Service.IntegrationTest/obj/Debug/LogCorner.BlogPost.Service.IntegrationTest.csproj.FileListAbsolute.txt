@@ -79,4 +79,3 @@ C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.S
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.IntegrationTest\bin\Debug\nunit.framework.xml
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.IntegrationTest\obj\Debug\LogCorner.BlogPost.Service.IntegrationTest.dll
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.IntegrationTest\obj\Debug\LogCorner.BlogPost.Service.IntegrationTest.pdb
-C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.IntegrationTest\obj\Debug\LogCorner.BlogPost.Service.IntegrationTest.csprojResolveAssemblyReference.cache

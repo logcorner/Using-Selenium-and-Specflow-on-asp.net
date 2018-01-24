@@ -52,5 +52,6 @@ C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.D
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.xml
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.csprojResolveAssemblyReference.cache
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.dll
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.pdb
