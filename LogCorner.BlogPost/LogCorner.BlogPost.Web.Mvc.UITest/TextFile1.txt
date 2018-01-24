@@ -2,15 +2,10 @@
 $MsTestDLL = 'LogCorner.BlogPost.Web.Mvc.UITest.dll'
 Start-Process $MsTestExePath  $MsTestDLL
 
-
-
 $MsTestExePath ='C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\packages\NUnit.ConsoleRunner.3.7.0\tools\nunit3-console.exe'
 $MsTestDLL = 'LogCorner.BlogPost.Web.Mvc.UITest.dll'
 $process = Start-Process -FilePath $MsTestExePath -ArgumentList $MsTestDLL -NoNewWindow -PassThru -Wait
 $process.ExitCode
-
-
-
 
 
 $MsTestExePath ='C:\Program Files (x86)\IIS Express\iisexpress.exe'
@@ -25,7 +20,11 @@ $process.ExitCode
 
 
 
-
-
-
 start C:\"Program Files (x86)"\"IIS Express"\iisexpress.exe /path:"%teamcity.build.checkoutDir%\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc" /port:62300
+
+Set-Location C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug
+$MsTestExePath ='C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\packages\NUnit.ConsoleRunner.3.7.0\tools\nunit3-console.exe'
+$MsTestDLL = 'LogCorner.BlogPost.Web.Mvc.UITest.dll'
+$options ='--labels=On --result=SpecFlowTestResult.xml;format=nunit2 --out=SpecFlowTestResult.txt'
+$process = Start-Process -FilePath $MsTestExePath -ArgumentList $options, $MsTestDLL -NoNewWindow -PassThru -Wait
+$process.ExitCode
