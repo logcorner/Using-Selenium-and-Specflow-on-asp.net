@@ -19,7 +19,7 @@ $process = Start-Process -FilePath $MsTestExePath -ArgumentList $argument -NoNew
 $process.ExitCode
 
 $MsTestExePath ='C:\Program Files (x86)\IIS Express\iisexpress.exe'
-$argument='/path:"C:\TeamCity\buildAgent\work\b2464ecc2a05a5ec\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc" /port:62301'
+$argument='/path:"C:\TeamCity\buildAgent\work\b2464ecc2a05a5ec\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc" /port:62300'
 $process = Start-Process -FilePath $MsTestExePath -ArgumentList $argument -NoNewWindow -PassThru -Wait
 $process.ExitCode
 

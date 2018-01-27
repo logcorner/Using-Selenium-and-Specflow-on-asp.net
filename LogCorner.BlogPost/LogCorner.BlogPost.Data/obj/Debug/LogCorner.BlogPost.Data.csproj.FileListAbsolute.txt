@@ -55,3 +55,13 @@ C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.D
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.csprojResolveAssemblyReference.cache
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.dll
 C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.pdb
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\LogCorner.BlogPost.Data.dll.config
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\LogCorner.BlogPost.Data.dll
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\LogCorner.BlogPost.Data.pdb
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.dll
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.xml
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.csprojResolveAssemblyReference.cache
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.dll
+C:\Users\TOCANE\Source\Repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Debug\LogCorner.BlogPost.Data.pdb
